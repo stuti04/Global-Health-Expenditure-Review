@@ -8,19 +8,15 @@ A country’s healthcare system plays a vital role in its ability to respond eff
 
 ![alt text](https://github.com/stuti04/Global-Health-Expenditure-Review/blob/main/ghe_dashboard.png)
 
+### Highlights
+
+* Designed logical and relational data models to develop an operational database and a data warehouse.
+* Developed ETL pipelines to clean data for analysis. Implemented Type 1 & 2 slowly changing dimensions (SCD) in the data warehouse for efficient record updates.
+* Analyzed various aspects of health expenditures across countries and illustrated the impact of these investments on health outcomes. 
+
 ### Technical Stack
 
-* PostgreSQL (operational database and data warehouse)
-* Talend (ETL tool)
-* Tableau
-* Microsoft Excel 
-
-### How to use the project?
-
-This project is complete and therefore, not open for contribution. But any suggestions regarding the implementation or additions are **highly appreciated**.
-
-### Contact 
-
-* LinkedIn - https://www.linkedin.com/in/stuti-dhebar/
-* Email - stutidhebar@gmail.com
+* Data Storage - PostgreSQL, Microsoft Excel
+* ETL - Talend
+* Analysis & Visualization - SQL, Tableau
 
