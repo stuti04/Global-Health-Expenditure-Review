@@ -6,7 +6,7 @@ A country’s healthcare system plays a vital role in its ability to respond eff
 
 ### Dashboard
 
-![alt text](https://github.com/[stuti04]/[Global-Health-Expenditure-Review]/blob/[main]/ghe_dashboard.png?raw=true)
+![alt text]([https://github.com/[stuti04]/[Global-Health-Expenditure-Review]/blob/[main]/ghe_dashboard.png?raw=true](https://github.com/stuti04/Global-Health-Expenditure-Review/blob/main/ghe_dashboard.png))
 
 ### Technical Stack
 
